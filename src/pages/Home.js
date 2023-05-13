@@ -2,7 +2,6 @@ import { Box, Container, Tab, TabList, TabPanel, TabPanels, Tabs, Text } from '@
 import React from 'react';
 import Login from '../components/Authentication/Login';
 import Signup from '../components/Authentication/Signup';
-// import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
